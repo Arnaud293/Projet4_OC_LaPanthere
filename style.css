@@ -634,6 +634,11 @@ a[data-lightbox]:hover img {
     opacity: .4
 }
 
+.row-bis {
+    display: flex;
+    justify-content: center;
+}
+
 .next-lightbox {
     padding: 6px 8px 1px 13px;
     right: 25px
