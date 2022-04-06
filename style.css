@@ -528,6 +528,7 @@ button {
     width: 40px;
     height: 40px;
     position: fixed;
+    opacity: 0;
     bottom: 20px;
     right: 20px;
     z-index: 500;
