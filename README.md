@@ -20,5 +20,5 @@ The tool allowed to target problems such as:
 * Removal of all hidden divs/keywords (black hat)
 * Meta tag optimization
 * Addition of a description of about 70 characters using relevant keywords
-* Removal of irrelevant information, which may in particular be considered as black hat
+* Removal of irrelevant information, which may in particular be considered as black hat.
 * Simply add alt tag on img.
